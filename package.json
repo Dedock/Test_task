@@ -1,0 +1,14 @@
+{
+  "name": "Test_task",
+  "version": "1.0.0",
+  "description": "test task for junior JS developer",
+  "main": "main.js",
+  "keywords": [
+    ""
+  ],
+  "author": "Oleg Ivashchenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
