@@ -99,7 +99,7 @@ body {
     width: 200px;
     height: 100px;
     position: absolute;
-    top: 30%;
+    top: calc(50% - 50px);
     left: 0;
     right: 0;
     margin: 0 auto;
